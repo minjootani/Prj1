@@ -38,7 +38,7 @@ function goJoinFrom() {
 				<td bgcolor="skyblue" colspan="2">L O G I N</td>	
 			</tr>
 			<tr>
-				<td bgcolor="skyblue">아이디</td>
+				<td bgcolor="blue">아이디</td>
 				<td>
 					<input type="text" name="id" maxlength="50" />
 				</td>
